@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelpDeskAssistant"
         mc:Ignorable="d"
-        Title="HDAssistant" Height="730" Width="800"
+        Title="HDAssistant" Height="830" Width="800"
         Icon="/Content/HD64.ico">
     <Window.DataContext>
         <local:MyViewModel />

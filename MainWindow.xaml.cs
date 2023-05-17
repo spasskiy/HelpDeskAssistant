@@ -49,33 +49,9 @@ namespace HelpDeskAssistant
         private void Button_Click(object sender, RoutedEventArgs e)
         {            
             OutputField.Text = MailStringCreator.CreateString(OperatorComboBox.SelectedItem as Operator, TTName.Text, GenerateExample(), TbOurIP.Text, TbThemIP.Text);
-            
-            try
-            {
-                Application.Current.Dispatcher.UnhandledException += (sender, e) =>
-                {
-                    MessageBox.Show("Произошла ошибка: " + e.Exception.Message);
-                    e.Handled = true;
-                };     
+            new BufferManager().CtrlC(OutputField.Text);
 
-                Thread thread = new Thread(() =>
-                {
-                    OutputField.Dispatcher.BeginInvoke(new Action(() =>
-                    {
-                        var data = new DataObject();
-                        data.SetText(OutputField.Text);
-                        Clipboard.SetDataObject(data);
-                    }));
-                });
-                thread.Start();
 
-                // Дождаться завершения потока
-                thread.Join();
-            }
-            catch (Exception ex)
-            { 
-                MessageBox.Show(ex.Message);
-            }
         }
 
         private List<Example> GenerateExample()
@@ -201,6 +177,7 @@ namespace HelpDeskAssistant
         private void Button_Calgear(object sender, RoutedEventArgs e)
         {
             OutputField.Text = TopMenuModel.CalgearOutput();
+            new BufferManager().CtrlC(OutputField.Text);
         }
     }
 }
