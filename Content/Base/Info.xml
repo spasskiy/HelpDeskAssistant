@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Information xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Info>
+	HelpDesk Assistant
+	v0.0.1
+	
+	Реализованный функционал :
+	- Генерация шаблонов писем операторам связи
+	- Получение информации по IP от сервиса WhoIS
+	
+	Апрель 2023
+  </Info>
+</Information>

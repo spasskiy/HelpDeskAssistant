@@ -1,0 +1,141 @@
+﻿<Window x:Class="HelpDeskAssistant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelpDeskAssistant"
+        mc:Ignorable="d"
+        Title="HDAssistant" Height="730" Width="800"
+        Icon="/Content/HD64.ico">
+    <Window.DataContext>
+        <local:MyViewModel />
+    </Window.DataContext>
+    <StackPanel>
+        <Menu>
+            <!-- Создание элемента меню "File" -->
+            <MenuItem Header="Меню">
+                <MenuItem Header="Настройки" Click="Settings_Click"/>
+                <MenuItem Header="Инфо" Click="Button_Info_Click"/>                
+                <Separator/>
+                <MenuItem Header="Выход" Click="Close_Button"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="" Margin="5" Width="35" Height="35" Click="Button_Calgear">
+                <Button.Background>
+                    <ImageBrush ImageSource="Content/IMG/TopPanel/button_callgear.jpg"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel x:Name="MainPanel">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Margin="5">Оператор связи:</TextBlock>
+                <ComboBox x:Name="OperatorComboBox" ItemsSource="{Binding Operators}" SelectedItem="{Binding DefaultOperator}"  DisplayMemberPath="Name" Width="100" SelectionChanged="comboBox_SelectionChanged"/>
+                <TextBlock Margin="5">Номер ТТ:</TextBlock>
+                <TextBox x:Name="TTName" Width="100" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+            <StackPanel Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5">Номер А</TextBlock>
+                    <TextBox x:Name="Tb1A" Width="179" Margin="5"/>
+                    </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5">Номер Б </TextBlock>
+                    <TextBox x:Name="Tb1B" Width="179" Margin="5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Margin="5">Время звонка </TextBlock>
+                        <TextBox x:Name="Tb1P" Width="150" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="textBox_TextChanged"/>
+                </StackPanel>
+            </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+                <StackPanel Margin="5">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер А</TextBlock>
+                        <TextBox x:Name="Tb2A" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер Б</TextBlock>
+                        <TextBox x:Name="Tb2B" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Время звонка</TextBlock>
+                        <TextBox x:Name="Tb2P" Width="150" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="textBox_TextChanged"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+                <StackPanel Margin="5">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер А</TextBlock>
+                        <TextBox x:Name="Tb3A" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер Б</TextBlock>
+                        <TextBox x:Name="Tb3B" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Время звонка</TextBlock>
+                        <TextBox x:Name="Tb3P" Width="150" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="textBox_TextChanged"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+                <StackPanel Margin="5">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер А</TextBlock>
+                        <TextBox x:Name="Tb4A" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер Б</TextBlock>
+                        <TextBox x:Name="Tb4B" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Время звонка</TextBlock>
+                        <TextBox x:Name="Tb4P" Width="150" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="textBox_TextChanged"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+                <StackPanel Margin="5">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер А</TextBlock>
+                        <TextBox x:Name="Tb5A" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Номер Б</TextBlock>
+                        <TextBox x:Name="Tb5B" Width="179" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">Время звонка</TextBlock>
+                        <TextBox x:Name="Tb5P" Width="150" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" TextChanged="textBox_TextChanged"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border>
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">IP с вашей стороны</TextBlock>
+                        <TextBox x:Name="TbThemIP" Margin="5" Width="150" Text="185.54.48.25"/>
+                        <Button Click="ip_Button_Click" Margin="5" Width="100"> Who IS ?</Button>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Margin="5">IP с нашей стороны</TextBlock>
+                        <TextBox x:Name="TbOurIP" Margin="5" Width="150" Text="195.211.122.121"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Button Content="СГЕНЕРИРОВАТЬ" Click="Button_Click" Margin="5"/>
+            <Button Content="Очистить форму" Click="Button_Reset" Margin="5"/>
+        </StackPanel>
+            <TextBox x:Name="OutputField" Grid.Column="1" Margin="3" BorderBrush="Black" TextWrapping="Wrap" AcceptsReturn="True"/>
+    </Grid>
+    </StackPanel>
+</Window>

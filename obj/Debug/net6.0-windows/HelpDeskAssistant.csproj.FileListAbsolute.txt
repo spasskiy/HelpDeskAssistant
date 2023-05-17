@@ -1,0 +1,76 @@
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.exe
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.deps.json
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.runtimeconfig.json
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.dll
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.pdb
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.AssemblyReference.cache
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\App.g.cs
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_MarkupCompile.cache
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_MarkupCompile.lref
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.g.resources
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.AssemblyInfoInputs.cache
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.AssemblyInfo.cs
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.CoreCompileInputs.cache
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.dll
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\refint\HelpDeskAssistant.dll
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.pdb
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.genruntimeconfig.cache
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\ref\HelpDeskAssistant.dll
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\HD64.ico
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\ic1.png
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Untitled-1.ico
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_Content.g.cs
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\HD16.ico
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\IPAddressRange.dll
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\WhoisClient.dll
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.CopyComplete
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Operator.xml
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Info.xml
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Config.xml
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\Content\AdditionalWinows\SettingsWindow.g.cs
+Z:\PetProject\HDA\HelpDeskAssistant\obj\Debug\net6.0-windows\Content\AdditionalWinows\SettingsWindow.baml
+Z:\PetProject\HDA\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\settings.xml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.exe
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Config.xml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Info.xml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\Operator.xml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\settings.xml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\HD16.ico
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\HD64.ico
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\ic1.png
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Untitled-1.ico
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.deps.json
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.runtimeconfig.json
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\HelpDeskAssistant.pdb
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\IPAddressRange.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\WhoisClient.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.AssemblyReference.cache
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\Content\AdditionalWinows\SettingsWindow.g.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_Content.g.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_MarkupCompile.cache
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant_MarkupCompile.lref
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\Content\AdditionalWinows\SettingsWindow.baml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.g.resources
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.AssemblyInfoInputs.cache
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.AssemblyInfo.cs
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.CoreCompileInputs.cache
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.csproj.CopyComplete
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\refint\HelpDeskAssistant.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.pdb
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\HelpDeskAssistant.genruntimeconfig.cache
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\obj\Debug\net6.0-windows\ref\HelpDeskAssistant.dll
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\IMG\TopPanel\button_callgear.jpg
+C:\Users\p.spasskiy\Desktop\Инструкции\HD Asistant\HelpDeskAssistant\bin\Debug\net6.0-windows\Content\Base\calgear_f.xml

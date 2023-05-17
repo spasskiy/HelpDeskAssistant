@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOperator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Operator>
+    <Name>Интернод</Name>
+    <Email>Tt@runexis.ru</Email>
+    <TheirIP>185.54.48.25</TheirIP>
+    <OurIP>195.211.122.121</OurIP>
+    <Theme>ООО "Новосистем" </Theme>
+  </Operator>
+  <Operator>
+    <Name>Вымпелком</Name>
+    <Email>opersupport@b2b.beeline.ru DIZhuravlev@beeline.ru</Email>
+    <TheirIP>213.33.173.20</TheirIP>
+    <OurIP />
+    <Theme>Номера договоров: GX274; FM225; JR941; JG414; ES991</Theme>
+  </Operator>
+  <Operator>
+    <Name>ЭР-Телеком</Name>
+    <Email>supportB2O@domru.ru</Email>
+    <TheirIP>188.234.153.200</TheirIP>
+    <OurIP />
+    <Theme>ООО "Новосистем", UIS-ERT-01, сип-транк</Theme>
+  </Operator>
+  <Operator>
+    <Name>МТТ</Name>
+    <Email>helpdesk@mtt.ru</Email>
+    <TheirIP>80.75.130.154</TheirIP>
+    <OurIP />
+    <Theme>"НОВОСИСТЕМ"</Theme>
+  </Operator>
+  <Operator>
+    <Name>Матрикс</Name>
+    <Email>uis-helpdesk@mtx.ru</Email>
+    <TheirIP> </TheirIP>
+    <OurIP />
+    <Theme>FMC партнёр Новосистем </Theme>
+  </Operator>
+  <Operator>
+    <Name>Ростелеком</Name>
+    <Email>support-b2o@rt.ru</Email>
+    <TheirIP>198.18.192.62</TheirIP>
+    <OurIP />
+    <Theme>Новосистем </Theme>
+  </Operator>
+</ArrayOfOperator>
